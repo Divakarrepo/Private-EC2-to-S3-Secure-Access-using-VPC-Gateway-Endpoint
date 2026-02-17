@@ -1,3 +1,5 @@
+![Alt text](screenshots/architecture diagram.png)
+
 # Private-EC2-to-S3-Secure-Access-using-VPC-Gateway-Endpoint
 
 **🧠 Project Overview**
